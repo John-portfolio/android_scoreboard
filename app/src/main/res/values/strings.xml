@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Baseball Scores</string>
+    <string name="txt_inning">Inning</string>
+    <string name="txt_teamA">Team A</string>
+    <string name="txt_teamB">Team B</string>
+    <string name="txt_runs">Runs</string>
+    <string name="txt_outs">Outs</string>
+    <string name="btn_run">Add Run</string>
+    <string name="btn_out">Add Out</string>
+    <string name="btn_next_inning">Next Inning</string>
+    <string name="btn_reset">Reset</string>
+    <string name="val_inning">1</string>
+    <string name="val_scoreTeamA">0</string>
+    <string name="val_scoreTeamB">0</string>
+    <string name="val_outsTeamA">0</string>
+    <string name="val_outsTeamB">0</string>
+</resources>
